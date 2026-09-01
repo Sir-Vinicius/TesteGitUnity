@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 15f;
     void Start()
     {
-        
+        // aumentei a velocidade do player  
     }
 
     // Update is called once per frame
